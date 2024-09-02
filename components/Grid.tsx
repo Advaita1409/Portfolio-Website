@@ -18,7 +18,6 @@ return (
             imgClassName={imgClassName}
             titleClassName={titleClassName}
             spareImg={spareImg}
-            
         />
         ))}
     </BentoGrid>
